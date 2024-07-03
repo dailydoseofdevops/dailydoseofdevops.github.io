@@ -72,7 +72,9 @@ plugins:
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
-
+header:
+  logo: /assets/images/logo.png
+  
 footer:
   links:
     # - label: "Twitter"
