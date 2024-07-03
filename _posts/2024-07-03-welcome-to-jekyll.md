@@ -1,5 +1,5 @@
 ---
-title: "Devops Interview Question on Design"
+title: "DevOps System Design Strategies for Successful Interviews"
 date: 2024-07-03
 categories:
   - interview
